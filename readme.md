@@ -7,4 +7,6 @@
 4. Run enc.exe to encode english.txt (it will generate english-mod.seria_enc)
 5. Put english-mod.seria_enc into the game files and rename it to english.seria_enc
 
+## The text file is encoded using Windows 1252 so if you have issues with some symbols change the encoding in your editor
+--- 
 ## Based on: https://gist.github.com/blluv/3c72b9e85a190a63da384488d4e28ee9
