@@ -1,2 +1,2 @@
-g++ dec.cpp -o dec.exe -static-libstdc++ -static-libgcc
-g++ enc.cpp -o enc.exe -static-libstdc++ -static-libgcc
+g++ dec.cpp -o dec.exe -fPIC -static -static-libgcc -static-libstdc++
+g++ enc.cpp -o enc.exe -fPIC -static -static-libgcc -static-libstdc++
